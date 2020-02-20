@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "amount": 45.80,
+    "instructions": "Leave at front door",
+    "customer_id": 1
+  },
+  {
+    "id": 2,
+    "amount": 99.90,
+    "instructions": "Leave at neighbor’s home",
+    "customer_id": 1
+  },
+  {
+    "id": 3,
+    "amount": 91.50,
+    "instructions": "Leave at front door",
+    "customer_id": 2
+  },
+  {
+    "id": 4,
+    "amount": 29.90,
+    "instructions": "Leave at back door",
+    "customer_id": 2
+  }
+]
